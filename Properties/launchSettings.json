@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "examen final algoritmos": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
